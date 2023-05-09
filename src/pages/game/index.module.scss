@@ -1,0 +1,10 @@
+.game-root {
+  .square {
+    width: 100px;
+    height: 100px;
+    border:  1px solid #efefef;
+  }
+  * {
+    font-size: .1rem;
+  }
+}

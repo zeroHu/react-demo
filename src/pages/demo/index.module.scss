@@ -1,0 +1,20 @@
+.root {
+  background: #efefef;
+  .font-20 {
+    font-size: 20px;
+  }
+  .mar-center {
+    margin: 0 auto;
+  }
+  .title {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+}
+
+
+.demo-root {
+  * {
+    font-size: .2rem;
+  }
+}

@@ -1,0 +1,12 @@
+.shop-item {
+  color: blue;
+  span {
+    margin-left: 30px;
+    &.font-big {
+      font-size: 50px;
+    }
+  }
+  .opr-btn {
+    margin-left: 100px;
+  }
+}
